@@ -1,0 +1,22 @@
+{
+  "game_rules": {
+    "rock": {
+      "beats": "scissors",
+      "loses_to": "paper"
+    },
+    "paper": {
+      "beats": "rock",
+      "loses_to": "scissors"
+    },
+    "scissors": {
+      "beats": "paper",
+      "loses_to": "rock"
+    }
+  },
+  "combos": [
+    ["rock", "rock", "rock"],
+    ["paper", "paper", "paper"],
+    ["scissors", "scissors", "scissors"],
+    ["rock", "paper", "scissors"]
+  ]
+}

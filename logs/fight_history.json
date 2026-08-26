@@ -1,0 +1,3950 @@
+[
+  {
+    "timestamp": "2025-11-27T10:07:04.535Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "skipped",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "skipped",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 11,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 12,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 13,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 14,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 15,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 16,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 17,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 18,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 19,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 20,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 21,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 22,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 23,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 24,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:10:48.895Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "skipped",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 9,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:14:04.283Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 4,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 10,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 11,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 12,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:17:15.519Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 2",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 2,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 3,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 2,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 5,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 6,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 7,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 8,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 9,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 11,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 12,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 13,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 14,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 15,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 16,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 17,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 18,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 19,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 20,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 21,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 22,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 23,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 24,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 0,
+        "player_2_lives_after": 4
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:17:32.136Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:17:43.398Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:18:37.150Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 8,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:19:47.143Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 4,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 5,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:20:20.972Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:21:23.888Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:25:16.080Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 2",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 11,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 12,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 13,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 14,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 15,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 16,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 17,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 18,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 19,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 20,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 21,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 22,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 23,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 24,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 25,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 26,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 27,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 28,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 29,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 30,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 0,
+        "player_2_lives_after": 3
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:26:20.130Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:32:52.696Z",
+    "player_1": "Player 3",
+    "player_2": "Player 4",
+    "winner": "Player 3",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 3,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 6,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 7,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 2,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:33:02.956Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 2",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 3,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 6,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 7,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 10,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 11,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 12,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 13,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 0,
+        "player_2_lives_after": 1
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:33:09.172Z",
+    "player_1": "Player 3",
+    "player_2": "Player 2",
+    "winner": "Player 3",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 4,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 5,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 2,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 7,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 8,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 9,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:36:44.911Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 4,
+        "player_1_move": "skipped",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 11,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 12,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:36:57.565Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 2",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 4,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 5,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 6,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 2,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 7,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 8,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 9,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 10,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 11,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 12,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 13,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 14,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 15,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 16,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 17,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 18,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 0,
+        "player_2_lives_after": 5
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:40:01.236Z",
+    "player_1": "Player 4",
+    "player_2": "Player 3",
+    "winner": "Player 4",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 4,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 6,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 7,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 8,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 9,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 10,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 11,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 12,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 13,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 14,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 15,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 16,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 17,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 2,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:40:11.074Z",
+    "player_1": "Player 2",
+    "player_2": "Player 1",
+    "winner": "Player 2",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 4,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 5,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 9,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 10,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 11,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 12,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:40:29.492Z",
+    "player_1": "Player 4",
+    "player_2": "Player 2",
+    "winner": "Player 2",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 3,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 6,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 8,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 11,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 12,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 13,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 14,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 15,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 16,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 17,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 18,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 19,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 20,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 21,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 22,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 23,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 24,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 25,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 26,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 0,
+        "player_2_lives_after": 3
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:40:55.056Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:41:46.750Z",
+    "player_1": "Player 1",
+    "player_2": "Player 4",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 4,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 5,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:41:55.369Z",
+    "player_1": "Player 2",
+    "player_2": "Player 3",
+    "winner": "Player 2",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 2,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 5,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 6,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 2,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 7,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 9,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 11,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 12,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 13,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 14,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 15,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 16,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 17,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 18,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 19,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 20,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 21,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:44:24.402Z",
+    "player_1": "Player 4",
+    "player_2": "Player 3",
+    "winner": "Player 3",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 4,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 5,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 6,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 7,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 8,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 2,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 9,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 10,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 11,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 12,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 2,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 13,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 14,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 15,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 16,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 17,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 18,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 19,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 20,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 0,
+        "player_2_lives_after": 5
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:44:55.516Z",
+    "player_1": "Player 2",
+    "player_2": "Player 1",
+    "winner": "Player 2",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 2,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 2,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 4,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 5,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 6,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 9,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 11,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 2,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 12,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T10:45:46.995Z",
+    "player_1": "Player 3",
+    "player_2": "Player 2",
+    "winner": "Player 3",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 2,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 3,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 4,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 5,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 6,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 7,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 8,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 9,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 11,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 12,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 13,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 14,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 15,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 16,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 17,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 18,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 19,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 20,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 21,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 22,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 23,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 24,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 25,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 26,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 27,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 28,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 29,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 30,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 2,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 31,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 32,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 33,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 34,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 35,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T13:03:23.444Z",
+    "player_1": "Player 4",
+    "player_2": "Player 2",
+    "winner": "Player 4",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 2,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 3,
+        "player_1_move": "scissors",
+        "player_2_move": "paper",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 4,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 5,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 6,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 7,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 8,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 9,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "paper",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 11,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 12,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 13,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 14,
+        "player_1_move": "paper",
+        "player_2_move": "paper",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 15,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 2,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 3
+      },
+      {
+        "round": 16,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 6,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 17,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 2",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 2
+      },
+      {
+        "round": 18,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 1
+      },
+      {
+        "round": 19,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 4",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T13:04:09.698Z",
+    "player_1": "Player 3",
+    "player_2": "Player 1",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 10,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 2,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 10
+      },
+      {
+        "round": 3,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 4,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 5,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 6,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 7,
+        "player_1_move": "scissors",
+        "player_2_move": "skipped",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 8,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 9,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 9
+      },
+      {
+        "round": 10,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 8
+      },
+      {
+        "round": 11,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 9,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 12,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 8,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 13,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 14,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 15,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 7,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 16,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 7
+      },
+      {
+        "round": 17,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 18,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 6
+      },
+      {
+        "round": 19,
+        "player_1_move": "paper",
+        "player_2_move": "rock",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 20,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 21,
+        "player_1_move": "rock",
+        "player_2_move": "rock",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 22,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 5
+      },
+      {
+        "round": 23,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 3",
+        "damage": 1,
+        "player_1_lives_after": 5,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 24,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 4,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 25,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 26,
+        "player_1_move": "scissors",
+        "player_2_move": "scissors",
+        "winner": "draw",
+        "damage": 1,
+        "player_1_lives_after": 3,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 27,
+        "player_1_move": "paper",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 2,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 4
+      },
+      {
+        "round": 28,
+        "player_1_move": "scissors",
+        "player_2_move": "rock",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 0,
+        "player_2_lives_after": 4
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T13:07:41.097Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 0
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-27T13:08:02.824Z",
+    "player_1": "Player 1",
+    "player_2": "Player 2",
+    "winner": "Player 1",
+    "rounds": [
+      {
+        "round": 1,
+        "player_1_move": "rock",
+        "player_2_move": "scissors",
+        "winner": "Player 1",
+        "damage": 1,
+        "player_1_lives_after": 1,
+        "player_2_lives_after": 0
+      }
+    ]
+  }
+]

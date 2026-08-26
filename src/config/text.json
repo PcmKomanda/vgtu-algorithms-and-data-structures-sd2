@@ -1,0 +1,6 @@
+{
+  "main_menu": {
+    "title": "Muštynių žaidimas!",
+    "options": ["Enter: Pradėti naują žaidimą", "q: Išeiti"]
+  }
+}
